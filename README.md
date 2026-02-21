@@ -1,3 +1,8 @@
+![AIDE+ Pro](https://socialify.git.ci/factorialovich/PUBG-ID-to-NICK/image?description=1&font=KoHo&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Ffactorialovich%2FPUBG-ID-to-NICK%2Fmain%2Fassets%2Ficon.png&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Auto)
+
+> [!IMPORTANT]
+> Parsing does not try to disrupt the work in any way Midasbuy, provided for development purposes only.
+
 # PUBG ID to NICK Parser
 
 Telegram bot for retrieving a PUBG Mobile player nickname using their Player ID.
