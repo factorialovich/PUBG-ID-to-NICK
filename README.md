@@ -16,6 +16,9 @@ Telegram bot for retrieving a PUBG Mobile player nickname using their Player ID.
 - Deep-link support via `/start api_<PUBG_ID>`
 - Automatic browser fallback via Playwright (Midasbuy) when direct lookup fails
 
+## Testing bot:
+- https://t.me/pubgmidtonickbot
+
 ---
 
 ## Requirements
